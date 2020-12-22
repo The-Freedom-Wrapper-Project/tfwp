@@ -1,16 +1,16 @@
-# [The Freedom Wrapper Project](https://github.com/mdbench/The-Freedom-Wrapper-Project/blob/master/README.md)
-[![GitHub license](https://img.shields.io/github/license/mdbench/The-Freedom-Wrapper-Project?style=for-the-badge)](https://github.com/mdbench/The-Freedom-Wrapper-Project/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/mdbench/The-Freedom-Wrapper-Project?style=for-the-badge)](https://github.com/mdbench/The-Freedom-Wrapper-Project/network) [![GitHub stars](https://img.shields.io/github/stars/mdbench/The-Freedom-Wrapper-Project?style=for-the-badge)](https://github.com/mdbench/The-Freedom-Wrapper-Project/stargazers)
+# [The Freedom Wrapper Project](https://github.com/The-Freedom-Wrapper-Project/tfwp/blob/master/README.md)
+[![GitHub license](https://img.shields.io/github/license/mdbench/The-Freedom-Wrapper-Project?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/tfwp/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/mdbench/The-Freedom-Wrapper-Project?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/tfwp/network/) [![GitHub stars](https://img.shields.io/github/stars/mdbench/The-Freedom-Wrapper-Project?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/tfwp/stargazers)
 
-![TFWPBanner](https://raw.githubusercontent.com/mdbench/The-Freedom-Wrapper-Project/master/TFWPLogo.png)
+![TFWPBanner](https://github.com/The-Freedom-Wrapper-Project/tfwp/blob/master/TFWPLogo.png)
 
 ## Table of Contents
-1. [Donate to to this Project](https://github.com/mdbench/The-Freedom-Wrapper-Project#donate)
-2. [What is The Freedom Wrapper Project (TFWP)?](https://github.com/mdbench/The-Freedom-Wrapper-Project#the-freedom-wrapper-project-was-created-for-a-multitude-of-reasons)
-3. [I'm new to Android App Development. How can I get up and running with TFWP?](https://github.com/mdbench/The-Freedom-Wrapper-Project#for-newbloods)
-4. [Explore further customization of your TFWP application](https://github.com/mdbench/The-Freedom-Wrapper-Project#further-customization)
-5. [Proof of Concept](https://github.com/mdbench/The-Freedom-Wrapper-Project#proof-of-concept)
-6. [Contact Me](https://github.com/mdbench/The-Freedom-Wrapper-Project#contact-me)
-7. [Official Website](https://github.com/mdbench/The-Freedom-Wrapper-Project#visit-the-freedom-wrapper-project-tfwp-website)
+1. [Donate to to this Project](https://github.com/The-Freedom-Wrapper-Project/tfwp#donate)
+2. [What is The Freedom Wrapper Project (TFWP)?](https://github.com/The-Freedom-Wrapper-Project/tfwp#the-freedom-wrapper-project-was-created-for-a-multitude-of-reasons)
+3. [I'm new to Android App Development. How can I get up and running with TFWP?](https://github.com/The-Freedom-Wrapper-Project/tfwp#for-newbloods)
+4. [Explore further customization of your TFWP application](https://github.com/The-Freedom-Wrapper-Project/tfwp#further-customization)
+5. [Proof of Concept](https://github.com/The-Freedom-Wrapper-Project/tfwp#proof-of-concept)
+6. [Contact Me](https://github.com/The-Freedom-Wrapper-Project/tfwp#contact-me)
+7. [Official Website](https://github.com/The-Freedom-Wrapper-Project/tfwp#visit-the-freedom-wrapper-project-tfwp-website)
 
 ### Donate:
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/19bQ9Z2SkGNsHUxx1UN2zoEvQuTmDkEFNf?showBalance=true)](https://en.cryptobadges.io/donate/19bQ9Z2SkGNsHUxx1UN2zoEvQuTmDkEFNf)
@@ -26,7 +26,7 @@
 
 - Thirdly, The Freedom Wrapper Project is open source and completely free. Being open source allows one to scrutinize the code. However, scrutiny is important but not entirely valuable in and of itself. The Freedom Wrapper Project falls under an MIT License. This means you can use this code for personal or commercial use, making you only a few steps away from developing your own application. The fact that it is open source means you can mention that your app uses source code associated with The Freedom Wrapper Project in application store submissions and customers can vet it, follow it, and potentially use it to make their own applications. This sets a standard for application security practices that people can rely on when choosing to install your application and eventually others. While the MIT License gives you the ability to create commercial applications (that is, for profit applications), it is not the design and purpose of this project or this license to allow you to use advertisements on any application you make with The Freedom Wrapper Project source code. I do not condone the use of ads or allow the use of advertisements on any of The Freedom Wrapper Project based applications. If code is open but not free, it is useless to enhancing the experience of fellow technologists – whether in a security, privacy, or creative context. This is why almost all app developers feel the need to load their applications with advertisements instead of content or useful code that makes our lives better. Don’t be the kind of developer that loads their application with advertisements. 
 
-[Back to the Table of Contents](https://github.com/mdbench/The-Freedom-Wrapper-Project#table-of-contents) or [Back to the Top](https://github.com/mdbench/The-Freedom-Wrapper-Project#the-freedom-wrapper-project) 
+[Back to the Table of Contents](https://github.com/The-Freedom-Wrapper-Project/tfwp#table-of-contents) or [Back to the Top](https://github.com/The-Freedom-Wrapper-Project/tfwp#the-freedom-wrapper-project) 
 
 ### For Newbloods:
 
@@ -54,7 +54,7 @@
 
 8. There should be a notification that pops up after you have successfully built the application. It will say **“locate”** on it. Click it and Android Studio will automatically open the folder containing your recently developed application. Copy the .apk file it created to a folder that will let you find it easily now and in the future, change the name of the file (while preserving the .apk file tag at the end of it), download it to your phone through a USB (preference) or by uploading it to the cloud. Install it and ignore the warning about **“installing from unknown sources.”** You made this app so you can guarantee it is not malicious. Open it when it is finished installing on your Android Device. **Congratulations! You are now using The Freedom Wrapper Project.**
 
-[Back to the Table of Contents](https://github.com/mdbench/The-Freedom-Wrapper-Project#table-of-contents) or [Back to the Top](https://github.com/mdbench/The-Freedom-Wrapper-Project#the-freedom-wrapper-project) 
+[Back to the Table of Contents](https://github.com/The-Freedom-Wrapper-Project/tfwp#table-of-contents) or [Back to the Top](https://github.com/The-Freedom-Wrapper-Project/tfwp#the-freedom-wrapper-project)
 
 ### Further Customization:
 
@@ -66,7 +66,7 @@
 
 3. There you go! You have just added a custom icon to your application. There is a lot more customization you can do and I highly suggest you examine all the files in The Freedom Wrapper Project Source code, checking the code comments at your leisure. There are a decent amount of comments that will give you a necessary walk-through. **Enjoy and have some fun!**
 
-[Back to the Table of Contents](https://github.com/mdbench/The-Freedom-Wrapper-Project#table-of-contents) or [Back to the Top](https://github.com/mdbench/The-Freedom-Wrapper-Project#the-freedom-wrapper-project) 
+[Back to the Table of Contents](https://github.com/The-Freedom-Wrapper-Project/tfwp#table-of-contents) or [Back to the Top](https://github.com/The-Freedom-Wrapper-Project/tfwp#the-freedom-wrapper-project)
 
 ### Proof of Concept:
 
@@ -85,4 +85,4 @@
 
 - [Official TFWP Website](https://www.matthewbenchimol.com/home/thefreedomwrapperproject/)
 
-[Back to the Top](https://github.com/mdbench/The-Freedom-Wrapper-Project#the-freedom-wrapper-project) 
+[Back to the Top](https://github.com/The-Freedom-Wrapper-Project/tfwp#the-freedom-wrapper-project)
