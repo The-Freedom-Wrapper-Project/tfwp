@@ -1,22 +1,14 @@
 # [The Freedom Wrapper Project](https://github.com/The-Freedom-Wrapper-Project/tfwp/blob/master/README.md)
-[![GitHub license](https://img.shields.io/github/license/The-Freedom-Wrapper-Project/tfwp?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/tfwp/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/The-Freedom-Wrapper-Project/tfwp?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/tfwp/network/) [![GitHub stars](https://img.shields.io/github/stars/The-Freedom-Wrapper-Project/tfwp?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/tfwp/stargazers)
+[![GitHub license](https://img.shields.io/github/license/The-Freedom-Wrapper-Project/tfwp?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/tfwp/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/The-Freedom-Wrapper-Project/tfwp?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/tfwp/network/) [![GitHub stars](https://img.shields.io/github/stars/The-Freedom-Wrapper-Project/tfwp?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/tfwp/stargazers) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fthefreedomwrapperproject.com%2F&style=for-the-badge)](https://thefreedomwrapperproject.com/)
 
 ![TFWPBanner](https://github.com/The-Freedom-Wrapper-Project/tfwp/blob/master/TFWPLogo.png)
 
 ## Table of Contents
-1. [Donate to to this Project](https://github.com/The-Freedom-Wrapper-Project/tfwp#donate)
-2. [What is The Freedom Wrapper Project (TFWP)?](https://github.com/The-Freedom-Wrapper-Project/tfwp#the-freedom-wrapper-project-was-created-for-a-multitude-of-reasons)
-3. [I'm new to Android App Development. How can I get up and running with TFWP?](https://github.com/The-Freedom-Wrapper-Project/tfwp#for-newbloods)
-4. [Explore further customization of your TFWP application](https://github.com/The-Freedom-Wrapper-Project/tfwp#further-customization)
-5. [Proof of Concept](https://github.com/The-Freedom-Wrapper-Project/tfwp#proof-of-concept)
-6. [Contact Me](https://github.com/The-Freedom-Wrapper-Project/tfwp#contact-me)
-7. [Official Website](https://github.com/The-Freedom-Wrapper-Project/tfwp#visit-the-freedom-wrapper-project-tfwp-website)
-
-### Donate:
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/19bQ9Z2SkGNsHUxx1UN2zoEvQuTmDkEFNf?showBalance=true)](https://en.cryptobadges.io/donate/19bQ9Z2SkGNsHUxx1UN2zoEvQuTmDkEFNf)
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0xA2a3aEef453aD5A5d15E5418D712Bf5c78D51aA9?showBalance=true)](https://en.cryptobadges.io/donate/0xA2a3aEef453aD5A5d15E5418D712Bf5c78D51aA9)
-
-[![](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/Full_Online_Tray_RGB.png)](https://paypal.me/mdbench)
+1. [What is The Freedom Wrapper Project (TFWP)?](https://github.com/The-Freedom-Wrapper-Project/tfwp#the-freedom-wrapper-project-was-created-for-a-multitude-of-reasons)
+2. [I'm new to Android App Development. How can I get up and running with TFWP?](https://github.com/The-Freedom-Wrapper-Project/tfwp#for-newbloods)
+3. [Explore further customization of your TFWP application](https://github.com/The-Freedom-Wrapper-Project/tfwp#further-customization)
+4. [Proof of Concept](https://github.com/The-Freedom-Wrapper-Project/tfwp#proof-of-concept)
+5. [Contact Us](https://github.com/The-Freedom-Wrapper-Project/tfwp#contact-us)
 
 ### The Freedom Wrapper Project was created for a multitude of reasons:
 
@@ -78,13 +70,12 @@
 
 - If you installed the Exodus Privacy application, you will see that sometimes your favorite applications can use as many as 15 application-embedded trackers! I will not mention them by name because companies are actually not to blame here (although, I'm sure I'll get grief for this from the privacy community). More often than not, the problem here is human error. It can be dangerously exploited by malicious actors but it was probably was not the original intent. For example, a team makes an Android application for *Company A.* They tell their boss, who is a business person, they need to add 15 trackers to their application for x, y, and z reasons and further explain it will increase revenue and customer loyalty by 30%. A business person is not going to turn down an opportunity to provide customers with information tailored to their needs by limiting the trackers in their application platform if it can make them money and serve their customers! We have been trapped in a feedback loop and the bubble is going to burst at some point. There is only so long a system, as haphazardly constructed as this one, can last before we start to see drastic friction points for individuals, companies, and governments. Don't take my word for it. Look at the number of trackers, determine which ones the application actually needs to function appropriately, and then ask the company in question to explain why they have so many application-embedded trackers in their platform. They will probably explain it away at first. Then, others will probably explain they are doing it maliciously. The truth is: incompetence is not always purposeful or unintentional. Sometimes its the nature of how business works. Money is money and as long as the application works or looks good, why question where and how that money came to be? **Thank you for using The Freedom Wrapper Project!**  
 
-### Contact Me
+### Contact Us
 
 - [Join us on Keybase!](https://keybase.io/team/tfwp)
-- [Through my website](https://www.matthewbenchimol.com/home/contact-me/)
 
 ### Visit The Freedom Wrapper Project (TFWP) Website
 
-- [Official TFWP Website](https://www.matthewbenchimol.com/home/thefreedomwrapperproject/)
+- [Official TFWP Website](https://thefreedomwrapperproject.com/)
 
 [Back to the Top](https://github.com/The-Freedom-Wrapper-Project/tfwp#the-freedom-wrapper-project)
